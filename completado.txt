@@ -1,0 +1,20 @@
+ARREGLAR DE LA ANTERIOR ENTREGA:
+
+    Cuando toquemos editar se muestren en los inputs texts.
+
+
+
+VISTA GENERAL:
+
+Crear html donde se muestren los usuarios       LISTO
+Asignar o sacar admin desde el html             
+Eliminar usuarios desde el html                 LISTO
+
+
+
+
+
+
+		
+
+
